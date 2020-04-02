@@ -14,8 +14,8 @@
           <input
             type="text"
             class="form-control"
-            placeholder="Recipient's username"
-            aria-label="Recipient's username"
+            placeholder="subreddit's name ex : r/aww"
+            aria-label="subreddit's name ex : r/aww"
             aria-describedby="basic-addon2"
             v-model="query"
           />
