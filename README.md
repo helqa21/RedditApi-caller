@@ -40,4 +40,6 @@ pnpm run lint
 you can always add filters , displays images , add a bunch of subs on the start .
 ```
 
+```
 🌛 &copy; BlackHole🌌Studio LLC | Made with 💘 by an 👽 on a 💻 for 👽 | 2020 | E.A.N aka ZTF 🌜
+```
