@@ -1,5 +1,6 @@
 dependencies:
   core-js: 3.6.4
+  date-fns: 2.11.1
   vue: 2.6.11
 devDependencies:
   '@vue/cli-plugin-babel': 4.2.3_@vue+cli-service@4.2.3
@@ -2823,6 +2824,10 @@ packages:
       node: '>=0.10'
     resolution:
       integrity: sha1-hTz6D3y+L+1d4gMmuN1YEDX24vA=
+  /date-fns/2.11.1:
+    dev: false
+    resolution:
+      integrity: sha512-3RdUoinZ43URd2MJcquzBbDQo+J87cSzB8NkXdZiN5ia1UNyep0oCyitfiL88+R7clGTeq/RniXAc16gWyAu1w==
   /de-indent/1.0.2:
     dev: true
     resolution:
@@ -8702,6 +8707,7 @@ specifiers:
   '@vue/cli-service': ^4.2.0
   babel-eslint: ^10.0.3
   core-js: ^3.6.4
+  date-fns: ^2.11.1
   eslint: ^6.7.2
   eslint-plugin-vue: ^6.1.2
   vue: ^2.6.11
